@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Egg
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - moveable sprites
+  - StopMovement
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: water
+    uniqueID: 3536793145
+    locked: 0
+  - name: grass
+    uniqueID: 2262414701
+    locked: 0
+  - name: dirt
+    uniqueID: 1624736619
+    locked: 0
+  - name: paths
+    uniqueID: 2492394473
+    locked: 0
+  - name: foliage
+    uniqueID: 921750195
+    locked: 0
+  - name: player
+    uniqueID: 1215816781
+    locked: 0
+  - name: chicken
+    uniqueID: 2039486161
+    locked: 0
